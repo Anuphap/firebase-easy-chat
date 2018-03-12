@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">EasyChat</string>
+    <string name="title_signIn">Please, sign via your google account.</string>
+    <string name="logout">logout</string>
+    <string name="loading">loading...</string>
+    <string name="send">send</string>
+    <string name="me">me</string>
+    <string name="example">Example</string>
+    <string name="user_image">user image</string>
+</resources>
