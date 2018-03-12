@@ -38,4 +38,4 @@ proguard/
 *.keystore
 
 # Google services config
-/app/google-services.json
+google-services.json
